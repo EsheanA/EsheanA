@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Eshean
 
-<!--
-**EsheanA/EsheanA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Simon Fraser University interested in backend engineering, distributed systems, cloud infrastructure, and full-stack development.
 
-Here are some ideas to get you started:
+Currently focused on building production-style applications with TypeScript, Node.js, React, PostgreSQL, Redis, Docker, and Google Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### BidWars
+Real-time multiplayer auction game built with React, TypeScript, Node.js, Socket.IO, Redis, and MongoDB.
+
+- Real-time room and bidding system using WebSockets
+- Redis-backed transient game state with persistent MongoDB records
+- AI auctioneer generating dynamic commentary and voice lines
+
+[Repository](https://github.com/EsheanA/BidWars)
+
+### Pack Scheduler
+Collaborative scheduling application for finding overlapping availability.
+
+- React + TypeScript frontend
+- Express/PostgreSQL backend
+- Schedule visualization using a 7×48 availability grid
+- Automated testing with Vitest and Supertest
+
+[Repository](https://github.com/Daniel101Shi/CMPT372-Group-Project)
+
+## Tech
+
+**Languages**
+
+`TypeScript` `JavaScript` `C++` `SQL`
+
+**Backend**
+
+`Node.js` `Express` `Socket.IO` `PostgreSQL` `MongoDB` `Redis`
+
+**Frontend**
+
+`React` `Vite` `Tailwind CSS`
+
+**Cloud / DevOps**
+
+`Docker` `Google Cloud` `Linux` `Nginx` `GitHub Actions`
+
+## Current Interests
+
+- Distributed systems and backend architecture
+- Google Cloud infrastructure
+- Systems programming and modern C++
+
+## Connect
+
+- [LinkedIn](www.linkedin.com/in/eshean)
