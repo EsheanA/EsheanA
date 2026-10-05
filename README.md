@@ -25,6 +25,16 @@ Collaborative scheduling application for finding overlapping availability.
 
 [Repository](https://github.com/Daniel101Shi/CMPT372-Group-Project)
 
+### CareRide
+Transportation coordination MVP built for The Salvation Army at HackVan.
+
+- Built in a 4-person team to coordinate rides for clients accessing essential services
+- TypeScript + Express backend deployed with Docker on Google Cloud Run
+- PostgreSQL database hosted on Google Cloud SQL with IAM-secured connectivity
+- Cloudflare-hosted frontend integrated with the GCP backend
+
+[Repository](https://github.com/FaithTechGlobalLabs/CareRide-Team-2)
+
 ## Tech
 
 **Languages**
